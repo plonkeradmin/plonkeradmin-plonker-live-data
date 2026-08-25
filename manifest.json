@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-25T14:20:34.952753+00:00",
-  "snapshot_id": "20260825T142034952-30d1dca964bc",
+  "generated_at_utc": "2026-08-25T14:53:35.241572+00:00",
+  "snapshot_id": "20260825T145335241-71f60db5e055",
   "json": "plonker-data.json",
   "gzip": "plonker-data.json.gz",
   "json_bytes": 29614146,
-  "gzip_bytes": 2448836,
-  "sha256": "30d1dca964bc7a423a94e229af8ad00fe5ab2ff0767edaf1ed5008128723ac9b",
+  "gzip_bytes": 2448842,
+  "sha256": "71f60db5e055941baafb9ac97f888cecab976164f1a10df3306c1a86ed8d413b",
   "stores": 124,
   "products": 19771,
   "prices": 115298
