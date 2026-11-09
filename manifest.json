@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-11-08T14:48:58.945074+00:00",
-  "snapshot_id": "20261108T144858945-4f9a8fd32048",
+  "generated_at_utc": "2026-11-09T14:35:24.619592+00:00",
+  "snapshot_id": "20261109T143524619-4fce6d4bd8b2",
   "json": "plonker-data.json",
   "gzip": "plonker-data.json.gz",
-  "json_bytes": 30897040,
-  "gzip_bytes": 2573836,
-  "sha256": "4f9a8fd3204809fcc04c5f6b66d7dfade850252c28def3a83e148e5a4579d180",
+  "json_bytes": 31960275,
+  "gzip_bytes": 2685824,
+  "sha256": "4fce6d4bd8b27382e0dd4401eaa19978ea9e1f41239db80afce777b7c1439849",
   "pipeline_sha256": "032221ecc40bdbda5ebaa74a01a36e39666168deb39825ea98c2cc253a173938",
   "stores": 145,
-  "products": 19093,
-  "prices": 126088
+  "products": 19808,
+  "prices": 130436
 }
